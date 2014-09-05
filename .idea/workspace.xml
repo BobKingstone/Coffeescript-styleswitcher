@@ -82,6 +82,7 @@
         <option value="$PROJECT_DIR$/switcher.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/switcher.coffee" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -310,6 +311,13 @@
     <entry file="file://$PROJECT_DIR$/style2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="1" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="48" selection-start="102" selection-end="102" vertical-scroll-proportion="0.06849315" vertical-offset="0" max-vertical-offset="657">
           <folding />
         </state>
       </provider>
